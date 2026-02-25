@@ -38,25 +38,6 @@ Built using **Java** and **Spring Boot**, this API provides role-based authentic
 
 ---
 
-## 📂 Project Structure
-
-smart-track-attendance-api/
-│
-├── src/main/java/com/attendance/
-│ ├── controller/ # REST Controllers
-│ ├── service/ # Business Logic
-│ ├── repository/ # Database Layer
-│ ├── model/ # Entity Classes
-│ ├── dto/ # Data Transfer Objects
-│ └── config/ # Security & App Config
-│
-├── src/main/resources/
-│ ├── application.properties
-│
-└── pom.xml
-
-
----
 
 ## 🔧 Installation & Setup
 
